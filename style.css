@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    color: darkred
+}
+header {
+   background-color: brown;
+   padding:30px;
+}
+
+header a{
+    background-color:tomato;
+    text-decoration: 10px;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+}
+
+header a:hoader{
+  background-color: brown ;
+  color: azure;
+  transform: all 1s lineare;
+}
+
+nav {
+    text-decoration: initial;
+    padding-top:10px; 
+}
+
+nav a {
+    margin: 10px;
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color:brown ;
+}
+
+p {
+    margin-left: 50px; 
+}
+
+footer {
+    background-color: brown;
+}
+
+footer a {
+    margin-right: 25px;
+}
